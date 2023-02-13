@@ -1,4 +1,4 @@
-package com.app.global.config;
+package com.app.global.config.web;
 
 import org.springframework.http.HttpMethod;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

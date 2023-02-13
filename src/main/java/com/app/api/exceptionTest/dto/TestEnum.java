@@ -1,2 +1,5 @@
-package com.app.api.exceptionTest.dto;public class TestEnum {
+package com.app.api.exceptionTest.dto;
+
+public enum TestEnum {
+    TEST
 }
